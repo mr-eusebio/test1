@@ -3,8 +3,8 @@ import java.awt.*;
 import hsa.Console;
 //displays all numbers from 1 to a digit entered by the user. 
 public class Recursion_numbers
-{
-    static Console c;           // The output console
+{ 
+    static Con sole c;           // The output console
 
     public static void main (String[] args)
     {
